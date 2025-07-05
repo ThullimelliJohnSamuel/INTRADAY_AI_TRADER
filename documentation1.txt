@@ -1,0 +1,20 @@
+It just show's how to build an image classification model using Python, not professional technical pattern detection yet.
+
+THESE ARE FAKE PATTERNS:
+Synthetic candlestick-style line charts (not real candlestick patterns like pin bar or hammer)
+Auto-generated using random price trends in the script
+these patterns was taken from 300  chart images 
+These are fake/simulated training images just to test how well a CNN can learn from chart shape.
+CNN: Convolutional Neural Network
+
+
+ What I Just Built:
+✅ A real-time intraday stock predictor
+
+✅ With RSI + MACD logic
+
+✅ Streamlit frontend
+
+✅ Auto charts, clean UI
+
+✅ Bug-free final code
